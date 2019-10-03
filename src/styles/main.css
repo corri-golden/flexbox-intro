@@ -1,0 +1,22 @@
+.nav {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.animal {
+    flex-basis: 25%;
+    animal: flex;
+    flex-direction: column;
+}
+
+
+img {
+        width: 50px;
+}
